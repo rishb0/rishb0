@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hello, I'm Rishabh Soni 👋  
 
-<!--
-**rishb0/rishb0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about Networking, Cybersecurity, and Programming.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects 🚀  
+- **[Rison Copy Checker](#)**: A Python-based tool that automates exam copy evaluation using AI techniques.  
+- **[Hindi Script Language](#)**: A C++-based toy programming language with Hindi syntax, inspired by Bhailang.  
+- **[File Encryption GUI](#)**: A Java-based tool for encrypting and decrypting files based on key .  
+
+---
+
+## Skills 🛠️  
+- **Languages:** C, C++, Python, Java  
+- **Technologies:** Linux, CentOS, Windows Server  
+- **Tools & Platforms:** Wireshark  
+
+---
+
+## Interests 💡  
+- Ethical Security  
+- Programming  
+- Networking  
+
+---
+
+## Connect with Me 🌐  
+- **[Portfolio](https://rishabhsoni.in)** (Coming Soon!)  
+- **[LinkedIn](#)** (Coming Soon!)  
