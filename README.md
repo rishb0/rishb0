@@ -26,5 +26,5 @@ I’m passionate about Networking, Cybersecurity, and Programming.
 ---
 
 ## Connect with Me 🌐  
-- **[Portfolio](http://www.rishabhsoni.in)**  
+- **email@rishabhsoni.in**
 - **[LinkedIn](https://www.linkedin.com/in/rishb0)**  
