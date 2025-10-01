@@ -19,7 +19,7 @@ I’m passionate about Networking, Cybersecurity, and Programming.
 ---
 
 ## Interests 💡  
-- 🛡️ Ethical Security  
+- 🛡️ Cyber Security  
 - 💻 Programming  
 - 🌟 Networking  
 
