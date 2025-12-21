@@ -11,13 +11,6 @@ I’m passionate about Networking, Cybersecurity, and Programming.
 
 ---
 
-## Skills 🛠️  
-- **Languages:** C, C++, Python, Java  
-- **Technologies:** Linux, CentOS, Windows Server  
-- **Tools & Platforms:** Wireshark  
-
----
-
 ## Interests 💡  
 - 🛡️ Cyber Security  
 - 💻 Programming  
@@ -28,3 +21,7 @@ I’m passionate about Networking, Cybersecurity, and Programming.
 ## Connect with Me 🌐  
 - **email@rishabhsoni.in**
 - **[LinkedIn](https://www.linkedin.com/in/rishb0)**  
+
+---
+
+## **Visit [rishabhsoni.in](https://rishabhsoni.in) to know more**
