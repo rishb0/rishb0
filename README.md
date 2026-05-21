@@ -1,6 +1,6 @@
 # Hello, I'm [Rishabh Soni](https://rishabhsoni.in) 👋
 
-In love with Computers, Technologies, and Researching.
+In love with Computers, Technologies, and Research.
 
 ---
 
