@@ -31,22 +31,22 @@ Nmap, Burp Suite, Wireshark, Metasploit, Nessus, Nikto, Git, GitHub, Cloudflare,
 
 ## Projects
 
-* **[Rison Copy Checker](https://github.com/rishb0/Rison-Copy-Checker)**: A Python-based tool that automates exam copy evaluation using Artificial Intelligence.
+* [Rison Copy Checker](https://github.com/rishb0/Rison-Copy-Checker): A Python-based tool that automates exam copy evaluation using Artificial Intelligence.
 
-* **[Hindi Script](https://github.com/rishb0/Hindi-Script)**: A C++-based toy programming language with Hindi syntax, inspired by Bhailang.
+* [Hindi Script](https://github.com/rishb0/Hindi-Script): A C++-based toy programming language with Hindi syntax, inspired by Bhailang.
 
-* **[File Encryptor GUI](https://github.com/rishb0/File-Encryptor-GUI)**: A Java-based tool for encrypting and decrypting files based on a key.
+* [File Encryptor GUI](https://github.com/rishb0/File-Encryptor-GUI): A Java-based tool for encrypting and decrypting files based on a key.
 
 ---
 
 ## Contributions
 
-* **[Linux-Essentials](https://github.com/InfoSecWarrior/Linux-Essentials)**
-* **[Linux-Servers](https://github.com/InfoSecWarrior/Linux-Servers)**
-* **[Penetration-Testing-Interview-Questions](https://github.com/InfoSecWarrior/Penetration-Testing-Interview-Questions)**
-* **[Offensive-Recon](https://github.com/InfoSecWarrior/Offensive-Recon)**
-* **[Offensive-Nmap](https://github.com/InfoSecWarrior/Offensive-Nmap)**
-* **[Offensive-Payloads](https://github.com/InfoSecWarrior/Offensive-Payloads)**
+* [Linux-Essentials](https://github.com/InfoSecWarrior/Linux-Essentials)
+* [Linux-Servers](https://github.com/InfoSecWarrior/Linux-Servers)
+* [Penetration-Testing-Interview-Questions](https://github.com/InfoSecWarrior/Penetration-Testing-Interview-Questions)
+* [Offensive-Recon](https://github.com/InfoSecWarrior/Offensive-Recon)
+* [Offensive-Nmap](https://github.com/InfoSecWarrior/Offensive-Nmap)
+* [Offensive-Payloads](https://github.com/InfoSecWarrior/Offensive-Payloads)
 
 ---
 
@@ -56,11 +56,18 @@ Nmap, Burp Suite, Wireshark, Metasploit, Nessus, Nikto, Git, GitHub, Cloudflare,
 
 ---
 
-## Connect with Me
+## CVEs
 
-**[Email](mailto:email@rishabhsoni.in)** • **[GitHub](https://github.com/rishb0)** • **[LinkedIn](https://linkedin.com/in/rishb0)** • **[HackerRank](https://www.hackerrank.com/profile/rishb0)** • **[Medium](https://medium.com/@rishb0)** • **[Hack The Box](https://profile.hackthebox.com/profile/019e39f2-4095-73c8-9b91-aab6d2664ced)** • **[TryHackMe](https://tryhackme.com/p/rishb0)**
+[CVEs-Assigned](https://github.com/rishb0/CVEs-Assigned)
 
 ---
+
+## Connect with Me
+
+[Email](mailto:email@rishabhsoni.in) • [GitHub](https://github.com/rishb0) • [LinkedIn](https://linkedin.com/in/rishb0) • [HackerRank](https://www.hackerrank.com/profile/rishb0) • [Medium](https://medium.com/@rishb0) • [Hack The Box](https://profile.hackthebox.com/profile/019e39f2-4095-73c8-9b91-aab6d2664ced) • [TryHackMe](https://tryhackme.com/p/rishb0)
+
+---
+
 ## Website
 
 **[rishabhsoni.in](https://rishabhsoni.in)**
