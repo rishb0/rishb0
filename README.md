@@ -25,7 +25,7 @@ Python, JavaScript, PHP, Bash, C, C++, Java, HTML, CSS, MySQL
 Kali Linux, Ubuntu, Debian, CentOS, Windows Server
 
 **Tools & Technologies:**
-Nmap, Burp Suite, Wireshark, Metasploit, Nessus, Nikto, Git, GitHub, Cloudflare, WordPress
+Nmap, Burp Suite, Wireshark, Metasploit, Nessus, Nikto, Docker, Git, GitHub, Cloudflare, WordPress
 
 ---
 
