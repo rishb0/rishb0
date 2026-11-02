@@ -68,7 +68,7 @@ Nmap, Burp Suite, Wireshark, Metasploit, Nessus, Nikto, Docker, Git, GitHub, Clo
 
 ## Writeups
 
-[Here](https://medium.com/@rishb0)
+[Medium](https://medium.com/@rishb0)
 
 ---
 
